@@ -42,6 +42,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://www.edjufy-status.com/edjufy-icon_green_trans_400px.png
   themeUrl: https://www.edjufy-status.com/theme.css
+  favicon: https://www.edjufy.com/static/img/icons/favicon-32x32.png
   name: edjufy System Status
   introTitle: "edjufy System Status"
   introMessage: "Auf dieser Seite finden Sie den System Status der verschiedenen edjufy Anwendungen"
