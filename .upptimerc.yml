@@ -53,6 +53,7 @@ status-website:
       href: https://www.edjufy.com
     - title: Login
       href: https://my.edjufy.com/login
+  js: "window.onload = function() { setInterval(function() { window.location.reload(); }, 60000); }"
 
 assignees:
   - laurenz-glueck
