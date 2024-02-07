@@ -12,7 +12,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: www.edjufy-status.com
   # baseUrl: /your-repo-name
-  # logoUrl:
+  logoUrl: https://www.edjufy-status.com/edjufy-icon_green_trans_400px.png
   themeUrl: https://www.edjufy-status.com/theme.css
   name: edjufy System Status
   introTitle: "edjufy System Status"
@@ -23,5 +23,64 @@ status-website:
     - title: Website
       href: https://www.edjufy.com
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  activeIncidents: Aktive Vorfälle
+  allSystemsOperational: Alle Systeme sind funktionsfähig
+  incidentReport: "Vorfall Bericht #$NUMBER →"
+  activeIncidentSummary: Eröffnet am $DATE mit $POSTS Beiträgen
+  incidentTitle: Vorfall $NUMBER Details
+  incidentDetails: Vorfall Details
+  incidentFixed: Behoben
+  incidentOngoing: Laufend
+  incidentOpenedAt: Eröffnet am
+  incidentClosedAt: Geschlossen am
+  incidentViewOnGitHub: Ansehen und Abonnieren auf GitHub
+  incidentCommentSummary: Veröffentlicht am $DATE von $AUTHOR
+  incidentBack: ← Zurück zu allen Vorfällen
+  pastIncidents: Vergangene Vorfälle
+  pastIncidentsResolved: Gelöst in $MINUTES Minuten mit $POSTS Beiträgen
+  liveStatus: Live Status
+  overallUptime: "Gesamte Verfügbarkeit: $UPTIME"
+  overallUptimeTitle: Gesamte Verfügbarkeit
+  averageResponseTime: "Durchschnittliche Antwortzeit: $TIMEms"
+  averageResponseTimeTitle: Durchschnittliche Antwortzeit
+  sevelDayResponseTime: 7-Tag Antwortzeit
+  responseTimeMs: Antwortzeit (ms)
+  up: Online
+  down: Ausfall
+  degraded: Eingeschränkt
+  ms: ms
+  loading: Laden
+  navGitHub: GitHub
+  footer: © 2024 [edjufy Software GmbH](https://www.edjufy.com)
+  rateLimitExceededTitle: Rate limit exceeded
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: Es ist ein Fehler aufgetreten
+  errorIntro: Beim Versuch, die neuesten Statusinformationen zu erhalten, ist ein Fehler aufgetreten.
+  errorText: Sie können es in wenigen Augenblicken erneut versuchen.
+  errorHome: Zur Startseite
+  pastScheduledMaintenance: Vergangene planmäßige Wartungsarbeiten
+  scheduledMaintenance: Planmäßige Wartungsarbeiten
+  scheduledMaintenanceSummaryStarted: Am $DATE für $DURATION Minuten gestartet
+  scheduledMaintenanceSummaryStarts: Startet am $DATE für $DURATION Minuten
+  startedAt: Gestartet am
+  startsAt: Startet am
+  duration: Dauer
+  durationMin: $DURATION Minuten
+  incidentCompleted: Abgeschlossen
+  incidentScheduled: Geplant
+  duration24H: 24 Stunden
+  duration7D: 7 Tage
+  duration30D: 30 Tage
+  duration1Y: 1 Jahr
+  durationAll: Alle
