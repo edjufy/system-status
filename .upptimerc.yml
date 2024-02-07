@@ -5,20 +5,19 @@ sites:
   - name: edjufy Frontend
     url: https://my.edjufy.com/login
     maxResponseTime: 1000
-  - name: Test
-    url: $SECRET_EDJUFY_BACKEND_SYSTEM_STATUS
+  - name: edjufy Backend
+    url: $EDJUFY_BACKEND_SYSTEM_STATUS_URL
     maxResponseTime: 1000
-  - name: Test 2
-    url: $EDJUFY_BACKEND_CHECK_URL
+    __dangerous__body_down_if_text_missing: 'OPERATING'
+  - name: edjufy Platform Login
+    url: $EDJUFY_BACKEND_AUTH_URL
+    method: POST
+    headers:
+      - "Authorization: Basic $EDJUFY_BACKEND_AUTH_HEADER"
+      - "Content-Type: application/json"
+    body: '{ "data": {} }'
+    __dangerous__body_down_if_text_missing: 'authenticated'
     maxResponseTime: 1000
-#  - name: edjufy Platform Login
-#    url: $EDJUFY_BACKEND_CHECK_URL
-#    method: POST
-#    headers:
-#      - "Authorization: Basic $EDJUFY_BACKEND_AUTH_HEADER"
-#      - "Content-Type: application/json"
-#    body: '{ "data": {} }'
-#    maxResponseTime: 1000
   - name: edjufy Website
     url: https://www.edjufy.com/de
 
