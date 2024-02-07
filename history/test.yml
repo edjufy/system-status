@@ -1,7 +1,7 @@
-url: $SECRET_SITE
+url: $SECRET_EDJUFY_BACKEND_SYSTEM_STATUS
 status: up
 code: 200
-responseTime: 95
-lastUpdated: 2024-02-07T15:22:06.255Z
+responseTime: 565
+lastUpdated: 2024-02-07T15:26:29.328Z
 startTime: 2024-02-07T15:22:06.157Z
 generator: Upptime <https://github.com/upptime/upptime>
