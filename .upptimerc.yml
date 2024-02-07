@@ -59,7 +59,7 @@ assignees:
 i18n:
   activeIncidents: Aktive Vorfälle
   allSystemsOperational: Alle Systeme sind funktionsfähig
-  incidentReport: "Vorfall Bericht #$NUMBER →"
+  incidentReport: "Details zu #$NUMBER →"
   activeIncidentSummary: Eröffnet am $DATE mit $POSTS Beiträgen
   incidentTitle: Vorfall $NUMBER Details
   incidentDetails: Vorfall Details
@@ -69,7 +69,7 @@ i18n:
   incidentClosedAt: Geschlossen am
   incidentViewOnGitHub: Ansehen und Abonnieren auf GitHub
   incidentCommentSummary: Veröffentlicht am $DATE von $AUTHOR
-  incidentBack: ← Zurück zu allen Vorfällen
+  incidentBack: ← Zurück zur Übersicht
   pastIncidents: Vergangene Vorfälle
   pastIncidentsResolved: Gelöst in $MINUTES Minuten mit $POSTS Beiträgen
   liveStatus: Live Status
@@ -102,8 +102,8 @@ i18n:
   errorIntro: Beim Versuch, die neuesten Statusinformationen zu erhalten, ist ein Fehler aufgetreten.
   errorText: Sie können es in wenigen Augenblicken erneut versuchen.
   errorHome: Zur Startseite
-  pastScheduledMaintenance: Vergangene planmäßige Wartungsarbeiten
-  scheduledMaintenance: Planmäßige Wartungsarbeiten
+  pastScheduledMaintenance: Vergangene Wartungsarbeiten
+  scheduledMaintenance: Geplante Wartungsarbeiten
   scheduledMaintenanceSummaryStarted: Am $DATE für $DURATION Minuten gestartet
   scheduledMaintenanceSummaryStarts: Startet am $DATE für $DURATION Minuten
   startedAt: Gestartet am
