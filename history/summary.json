@@ -10,12 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 751,
-    "timeDay": 751,
-    "timeWeek": 751,
-    "timeMonth": 751,
-    "timeYear": 751,
+    "time": 722,
+    "timeDay": 722,
+    "timeWeek": 722,
+    "timeMonth": 722,
+    "timeYear": 722,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "edjufy Backend",
+    "url": "$EDJUFY_BACKEND_CHECK_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "edjufy-backend",
+    "status": "down",
+    "uptime": "14.98%",
+    "uptimeDay": "14.98%",
+    "uptimeWeek": "14.98%",
+    "uptimeMonth": "14.98%",
+    "uptimeYear": "14.98%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-02-07": 0
+    }
   },
   {
     "name": "edjufy Website",
@@ -28,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2464,
-    "timeDay": 2464,
-    "timeWeek": 2464,
-    "timeMonth": 2464,
-    "timeYear": 2464,
+    "time": 2306,
+    "timeDay": 2306,
+    "timeWeek": 2306,
+    "timeMonth": 2306,
+    "timeYear": 2306,
     "dailyMinutesDown": {}
   }
 ]
