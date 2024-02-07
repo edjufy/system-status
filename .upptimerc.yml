@@ -4,8 +4,18 @@ repo: system-status
 sites:
   - name: edjufy Frontend
     url: https://my.edjufy.com/login
+    maxResponseTime: 1000
   - name: edjufy Backend
     url: $EDJUFY_BACKEND_CHECK_URL
+    maxResponseTime: 1000
+  - name: edjufy Platform Login
+    url: $EDJUFY_BACKEND_CHECK_URL
+    method: POST
+    headers:
+      - "Authorization: Basic $EDJUFY_BACKEND_AUTH_HEADER"
+      - "Content-Type: application/json"
+    body: '{ "data": {} }'
+    maxResponseTime: 1000
   - name: edjufy Website
     url: https://www.edjufy.com/de
 
@@ -26,6 +36,9 @@ status-website:
       href: https://www.edjufy.com
     - title: Login
       href: https://my.edjufy.com/login
+
+assignees:
+  - laurenz-glueck
 
 i18n:
   activeIncidents: Aktive Vorfälle
