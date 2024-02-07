@@ -69,7 +69,7 @@ i18n:
   incidentOpenedAt: Eröffnet am
   incidentClosedAt: Geschlossen am
   incidentViewOnGitHub: Details auf GitHub anzeigen
-  incidentCommentSummary: Veröffentlicht am $DATE von $AUTHOR
+  incidentCommentSummary: Veröffentlicht am $DATE
   incidentBack: ← Zurück zur Übersicht
   pastIncidents: Vergangene Vorfälle
   pastIncidentsResolved: Gelöst in $MINUTES Minuten mit $POSTS Beiträgen
