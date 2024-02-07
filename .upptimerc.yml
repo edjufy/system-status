@@ -6,7 +6,10 @@ sites:
     url: https://my.edjufy.com/login
     maxResponseTime: 1000
   - name: Test
-    url: $SECRET_SITE
+    url: $SECRET_EDJUFY_BACKEND_SYSTEM_STATUS
+    maxResponseTime: 1000
+  - name: Test 2
+    url: $EDJUFY_BACKEND_CHECK_URL
     maxResponseTime: 1000
 #  - name: edjufy Platform Login
 #    url: $EDJUFY_BACKEND_CHECK_URL
