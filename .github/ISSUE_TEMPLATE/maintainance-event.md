@@ -1,17 +1,17 @@
 ---
 name: Maintenance Event
 about: Schedule a work window
-title: "[Scheduled Maintenance] Site down for Maintenance"
+title: "[Geplante Wartungsarbeiten] Titel der Wartungsarbeiten"
 labels: maintenance
 assignees: ''
 
 ---
 
 <!--
-start: 2021-08-24T13:00:00.220Z
-end: 2021-08-24T14:00:00.220Z
-expectedDown: google, hacker-news
+start: 2024-01-01T17:00:00Z 
+end: 2024-01-01T18:00:00Z
+expectedDown: edjufy-frontend, edjufy-backend, edjufy-platform-login
 -->
 
-**Additional context**
-Who/what/when/where/why is this maintenance happening
+**Weitere Informationen**
+Hier können Sie weitere Informationen zu den Wartungsarbeiten eintragen.
