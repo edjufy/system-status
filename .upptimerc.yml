@@ -3,14 +3,24 @@ repo: system-status
 
 sites:
   - name: edjufy Frontend
+    slug: edjufy-frontend
     url: https://my.edjufy.com/login
+    icon: https://www.edjufy.com/static/img/icons/favicon-32x32.png
     maxResponseTime: 1000
+    expectedStatusCodes:
+      - 200
   - name: edjufy Backend
+    slug: edjufy-backend
     url: $EDJUFY_BACKEND_SYSTEM_STATUS_URL
-    maxResponseTime: 1000
+    icon: https://www.edjufy.com/static/img/icons/favicon-32x32.png
     __dangerous__body_down_if_text_missing: 'OPERATING'
+    maxResponseTime: 1000
+    expectedStatusCodes:
+      - 200
   - name: edjufy Platform Login
+    slug: edjufy-platform-login
     url: $EDJUFY_BACKEND_AUTH_URL
+    icon: https://www.edjufy.com/static/img/icons/favicon-32x32.png
     method: POST
     headers:
       - "Authorization: Basic $EDJUFY_BACKEND_AUTH_HEADER"
@@ -18,8 +28,12 @@ sites:
     body: '{ "data": {} }'
     __dangerous__body_down_if_text_missing: 'authenticated'
     maxResponseTime: 1000
+    expectedStatusCodes:
+      - 200
   - name: edjufy Website
+    slug: edjufy-website
     url: https://www.edjufy.com/de
+    icon: https://www.edjufy.com/static/img/icons/favicon-32x32.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
