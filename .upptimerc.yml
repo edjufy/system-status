@@ -68,7 +68,7 @@ i18n:
   incidentOngoing: Laufend
   incidentOpenedAt: Eröffnet am
   incidentClosedAt: Geschlossen am
-  incidentViewOnGitHub: Ansehen und Abonnieren auf GitHub
+  incidentViewOnGitHub: Details auf GitHub anzeigen
   incidentCommentSummary: Veröffentlicht am $DATE von $AUTHOR
   incidentBack: ← Zurück zur Übersicht
   pastIncidents: Vergangene Vorfälle
