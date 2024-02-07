@@ -12,7 +12,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: www.edjufy-status.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # logoUrl:
+  themeUrl: https://www.edjufy-status.com/theme.css
   name: edjufy System Status
   introTitle: "edjufy System Status"
   introMessage: "Auf dieser Seite finden Sie den System Status der verschiedenen edjufy Anwendungen"
