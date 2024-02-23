@@ -40,18 +40,20 @@
     "url": "$EDJUFY_BACKEND_AUTH_URL",
     "icon": "https://www.edjufy.com/static/img/icons/favicon-32x32.png",
     "slug": "edjufy-platform-login",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 456,
-    "timeWeek": 448,
-    "timeMonth": 427,
-    "timeYear": 427,
-    "dailyMinutesDown": {}
+    "time": 476,
+    "timeDay": 1056,
+    "timeWeek": 599,
+    "timeMonth": 476,
+    "timeYear": 476,
+    "dailyMinutesDown": {
+      "2024-02-23": 0
+    }
   },
   {
     "name": "edjufy Website",
