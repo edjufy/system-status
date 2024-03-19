@@ -22,10 +22,10 @@
     "url": "$EDJUFY_BACKEND_SYSTEM_STATUS_URL",
     "icon": "https://www.edjufy.com/static/img/icons/favicon-32x32.png",
     "slug": "edjufy-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 699,
@@ -33,7 +33,9 @@
     "timeWeek": 731,
     "timeMonth": 716,
     "timeYear": 699,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-19": 2
+    }
   },
   {
     "name": "edjufy Platform Login",
