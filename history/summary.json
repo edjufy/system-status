@@ -58,9 +58,9 @@
     "url": "https://www.edjufy.com/de",
     "icon": "https://www.edjufy.com/static/img/icons/favicon-32x32.png",
     "slug": "edjufy-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 1855,
     "timeMonth": 1873,
     "timeYear": 2018,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-22": 0
+    }
   }
 ]
