@@ -58,19 +58,19 @@
     "url": "https://www.edjufy.com/de",
     "icon": "https://www.edjufy.com/static/img/icons/favicon-32x32.png",
     "slug": "edjufy-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2018,
-    "timeDay": 1842,
-    "timeWeek": 1855,
-    "timeMonth": 1873,
-    "timeYear": 2018,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2012,
+    "timeDay": 1751,
+    "timeWeek": 1830,
+    "timeMonth": 1866,
+    "timeYear": 2012,
     "dailyMinutesDown": {
-      "2024-03-22": 0
+      "2024-03-22": 7
     }
   }
 ]
