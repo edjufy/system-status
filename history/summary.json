@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 709,
-    "timeDay": 1995,
+    "time": 711,
+    "timeDay": 842,
     "timeWeek": 1099,
-    "timeMonth": 798,
-    "timeYear": 709,
+    "timeMonth": 804,
+    "timeYear": 711,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "edjufy-backend",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.49%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 858,
-    "timeDay": 3616,
-    "timeWeek": 2021,
-    "timeMonth": 1128,
-    "timeYear": 858,
+    "time": 859,
+    "timeDay": 890,
+    "timeWeek": 2018,
+    "timeMonth": 1134,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2024-04-25": 22
     }
@@ -44,15 +44,15 @@
     "slug": "edjufy-platform-login",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "96.84%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
-    "time": 494,
-    "timeDay": 1057,
-    "timeWeek": 689,
-    "timeMonth": 535,
-    "timeYear": 494,
+    "time": 497,
+    "timeDay": 738,
+    "timeWeek": 716,
+    "timeMonth": 543,
+    "timeYear": 497,
     "dailyMinutesDown": {
       "2024-04-25": 45
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1973,
-    "timeDay": 1650,
-    "timeWeek": 1911,
-    "timeMonth": 1918,
-    "timeYear": 1973,
+    "time": 1975,
+    "timeDay": 2162,
+    "timeWeek": 1886,
+    "timeMonth": 1930,
+    "timeYear": 1975,
     "dailyMinutesDown": {}
   }
 ]
