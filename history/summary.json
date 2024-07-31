@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 674,
-    "timeDay": 495,
-    "timeWeek": 559,
-    "timeMonth": 590,
-    "timeYear": 674,
+    "time": 673,
+    "timeDay": 485,
+    "timeWeek": 565,
+    "timeMonth": 587,
+    "timeYear": 673,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "edjufy-backend",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 763,
-    "timeDay": 497,
-    "timeWeek": 575,
-    "timeMonth": 601,
-    "timeYear": 763,
-    "dailyMinutesDown": {
-      "2024-07-30": 11
-    }
+    "time": 762,
+    "timeDay": 516,
+    "timeWeek": 580,
+    "timeMonth": 599,
+    "timeYear": 762,
+    "dailyMinutesDown": {}
   },
   {
     "name": "edjufy Platform Login",
@@ -44,17 +42,16 @@
     "slug": "edjufy-platform-login",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 483,
-    "timeDay": 390,
-    "timeWeek": 411,
-    "timeMonth": 429,
-    "timeYear": 483,
+    "time": 482,
+    "timeDay": 394,
+    "timeWeek": 404,
+    "timeMonth": 426,
+    "timeYear": 482,
     "dailyMinutesDown": {
-      "2024-07-30": 11,
       "2024-04-25": 45
     }
   },
@@ -65,17 +62,15 @@
     "slug": "edjufy-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1839,
-    "timeDay": 1047,
-    "timeWeek": 1117,
-    "timeMonth": 1275,
-    "timeYear": 1839,
-    "dailyMinutesDown": {
-      "2024-07-30": 11
-    }
+    "time": 1835,
+    "timeDay": 1076,
+    "timeWeek": 1134,
+    "timeMonth": 1269,
+    "timeYear": 1835,
+    "dailyMinutesDown": {}
   }
 ]
