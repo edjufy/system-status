@@ -22,19 +22,19 @@
     "url": "$EDJUFY_BACKEND_SYSTEM_STATUS_URL",
     "icon": "https://www.edjufy.com/static/img/icons/favicon-32x32.png",
     "slug": "edjufy-backend",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 780,
-    "timeDay": 2657,
-    "timeWeek": 1046,
-    "timeMonth": 726,
+    "timeDay": 2011,
+    "timeWeek": 1013,
+    "timeMonth": 725,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2024-08-03": 0
+      "2024-08-03": 27
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://www.edjufy.com/static/img/icons/favicon-32x32.png",
     "slug": "edjufy-platform-login",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
     "time": 478,
     "timeDay": 226,
     "timeWeek": 337,
     "timeMonth": 407,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2024-08-03": 0,
+      "2024-08-03": 27,
       "2024-04-25": 45
     }
   },
@@ -64,18 +64,18 @@
     "icon": "https://www.edjufy.com/static/img/icons/favicon-32x32.png",
     "slug": "edjufy-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 1818,
     "timeDay": 760,
     "timeWeek": 1050,
     "timeMonth": 1175,
     "timeYear": 1818,
     "dailyMinutesDown": {
-      "2024-08-03": 0
+      "2024-08-03": 27
     }
   }
 ]
