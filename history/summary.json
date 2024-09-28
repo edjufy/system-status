@@ -22,9 +22,9 @@
     "url": "$EDJUFY_BACKEND_SYSTEM_STATUS_URL",
     "icon": "https://www.edjufy.com/static/img/icons/favicon-32x32.png",
     "slug": "edjufy-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -34,6 +34,7 @@
     "timeMonth": 634,
     "timeYear": 774,
     "dailyMinutesDown": {
+      "2024-09-28": 0,
       "2024-08-03": 294
     }
   },
@@ -42,18 +43,19 @@
     "url": "$EDJUFY_BACKEND_AUTH_URL",
     "icon": "https://www.edjufy.com/static/img/icons/favicon-32x32.png",
     "slug": "edjufy-platform-login",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 445,
-    "timeDay": 294,
-    "timeWeek": 318,
-    "timeMonth": 334,
-    "timeYear": 445,
+    "time": 443,
+    "timeDay": 193,
+    "timeWeek": 290,
+    "timeMonth": 327,
+    "timeYear": 443,
     "dailyMinutesDown": {
+      "2024-09-28": 0,
       "2024-08-03": 294,
       "2024-04-25": 45
     }
@@ -63,18 +65,19 @@
     "url": "https://www.edjufy.com/de",
     "icon": "https://www.edjufy.com/static/img/icons/favicon-32x32.png",
     "slug": "edjufy-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1632,
-    "timeDay": 795,
-    "timeWeek": 937,
-    "timeMonth": 1019,
-    "timeYear": 1632,
+    "time": 1627,
+    "timeDay": 669,
+    "timeWeek": 888,
+    "timeMonth": 1004,
+    "timeYear": 1627,
     "dailyMinutesDown": {
+      "2024-09-28": 0,
       "2024-08-03": 294
     }
   }
