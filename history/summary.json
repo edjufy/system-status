@@ -4,19 +4,19 @@
     "url": "https://my.edjufy.com/login",
     "icon": "https://www.edjufy.com/static/img/icons/favicon-32x32.png",
     "slug": "edjufy-frontend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 629,
-    "timeDay": 859,
-    "timeWeek": 645,
-    "timeMonth": 585,
+    "timeDay": 786,
+    "timeWeek": 653,
+    "timeMonth": 590,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2025-03-08": 0
+      "2025-03-08": 31
     }
   },
   {
