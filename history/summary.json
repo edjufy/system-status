@@ -11,10 +11,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 627,
-    "timeDay": 438,
-    "timeWeek": 567,
-    "timeMonth": 607,
-    "timeYear": 621,
+    "timeDay": 504,
+    "timeWeek": 539,
+    "timeMonth": 599,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2025-03-08": 31
     }
@@ -25,16 +25,16 @@
     "icon": "https://www.edjufy.com/static/img/icons/favicon-32x32.png",
     "slug": "edjufy-backend",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 777,
-    "timeDay": 513,
-    "timeWeek": 607,
-    "timeMonth": 621,
-    "timeYear": 791,
+    "timeDay": 499,
+    "timeWeek": 586,
+    "timeMonth": 612,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2024-09-28": 283,
       "2024-08-03": 294
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 405,
-    "timeDay": 305,
-    "timeWeek": 317,
-    "timeMonth": 525,
+    "timeDay": 311,
+    "timeWeek": 312,
+    "timeMonth": 524,
     "timeYear": 394,
     "dailyMinutesDown": {
       "2024-09-28": 283,
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1320,
-    "timeDay": 744,
-    "timeWeek": 886,
-    "timeMonth": 910,
-    "timeYear": 1196,
+    "time": 1319,
+    "timeDay": 860,
+    "timeWeek": 863,
+    "timeMonth": 900,
+    "timeYear": 1192,
     "dailyMinutesDown": {
       "2024-08-03": 294
     }
