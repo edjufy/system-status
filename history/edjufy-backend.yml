@@ -1,7 +1,7 @@
 url: $EDJUFY_BACKEND_SYSTEM_STATUS_URL
 status: up
 code: 200
-responseTime: 801
-lastUpdated: 2025-04-19T23:03:53.203Z
+responseTime: 553
+lastUpdated: 2025-04-20T23:03:49.730Z
 startTime: 2024-02-07T15:35:39.612Z
 generator: Upptime <https://github.com/upptime/upptime>
