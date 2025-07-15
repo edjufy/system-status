@@ -4,9 +4,9 @@
     "url": "https://my.edjufy.com/login",
     "icon": "https://www.edjufy.com/static/img/icons/favicon-32x32.png",
     "slug": "edjufy-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 611,
     "timeYear": 593,
     "dailyMinutesDown": {
+      "2025-07-15": 0,
       "2025-03-08": 31
     }
   },
@@ -24,9 +25,9 @@
     "url": "$EDJUFY_BACKEND_SYSTEM_STATUS_URL",
     "icon": "https://www.edjufy.com/static/img/icons/favicon-32x32.png",
     "slug": "edjufy-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -36,6 +37,7 @@
     "timeMonth": 634,
     "timeYear": 736,
     "dailyMinutesDown": {
+      "2025-07-15": 0,
       "2024-09-28": 283,
       "2024-08-03": 294
     }
@@ -45,9 +47,9 @@
     "url": "$EDJUFY_BACKEND_AUTH_URL",
     "icon": "https://www.edjufy.com/static/img/icons/favicon-32x32.png",
     "slug": "edjufy-platform-login",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -57,6 +59,7 @@
     "timeMonth": 302,
     "timeYear": 340,
     "dailyMinutesDown": {
+      "2025-07-15": 0,
       "2024-09-28": 283,
       "2024-08-03": 294
     }
@@ -66,18 +69,19 @@
     "url": "https://www.edjufy.com/de",
     "icon": "https://www.edjufy.com/static/img/icons/favicon-32x32.png",
     "slug": "edjufy-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1162,
+    "time": 1159,
     "timeDay": 1134,
     "timeWeek": 1013,
     "timeMonth": 951,
     "timeYear": 952,
     "dailyMinutesDown": {
+      "2025-07-15": 0,
       "2024-08-03": 294
     }
   }
