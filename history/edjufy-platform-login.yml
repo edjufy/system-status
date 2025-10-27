@@ -1,7 +1,7 @@
 url: $EDJUFY_BACKEND_AUTH_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-27T15:45:27.974Z
+status: up
+code: 200
+responseTime: 377
+lastUpdated: 2025-10-27T15:52:11.282Z
 startTime: 2024-02-07T15:35:40.685Z
 generator: Upptime <https://github.com/upptime/upptime>
